@@ -45,7 +45,7 @@ Changes *_data/data.yml* will be visible after a while.
 
 * Get the repo into your machine 
 ```bash
-git clone https://github.com/sharu725/online-cv.git
+git clone https://github.com/andre3k1/jekyll-resume
 ```
 * Install required ruby gems
 ```bash
