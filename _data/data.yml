@@ -8,8 +8,9 @@ sidebar:
 
     # Profile information
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     name: Andre Garrigo
+    avatar: profile320x320.jpg
+    # avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hello@webjeda.com
