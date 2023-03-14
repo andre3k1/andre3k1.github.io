@@ -27,7 +27,7 @@ sidebar:
     phone: +1 (305) 842-3333
     timezone: Eastern Time Zone (ET)
     citizenship: United States
-    website: AndreGarrigo.com # do not add http://
+    # website: AndreGarrigo.com # do not add http://
 
     languages:
       title: Languages
