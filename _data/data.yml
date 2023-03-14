@@ -13,7 +13,6 @@ sidebar:
     # avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    github: sharu725
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -24,6 +23,7 @@ sidebar:
     # website: AndreGarrigo.com # do not add http://
     linkedin: AndreGarrigo
     # xing: 
+    github: andre3k1
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
