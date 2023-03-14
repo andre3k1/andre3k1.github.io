@@ -13,7 +13,6 @@ sidebar:
     # avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
     phone: +1 (305) 842-3333
     timezone: Eastern Time Zone (ET)
@@ -28,6 +27,7 @@ sidebar:
     twitter: '@hello_its_andre'
     # stack-overflow: 21385867/andre-garrigo # Number/Username
     # codewars:
+    # goodreads: 6034960-andre-garrigo # Number-Username
 
     languages:
       title: Languages
