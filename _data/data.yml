@@ -14,7 +14,6 @@ sidebar:
 
     # Sidebar links
     timezone: America/Cancun Timezone
-    citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
@@ -28,6 +27,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
     phone: +1 (305) 842-3333
+    citizenship: United States
 
     languages:
       title: Languages
