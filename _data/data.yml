@@ -13,21 +13,22 @@ sidebar:
     # avatar: profile.png  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: hello@andregarrigo.com
     phone: +1 (305) 842-3333
-    timezone: Eastern Time Zone (ET)
+    timezone: Americas/Eastern Time (ET)
     citizenship: United States
-    # website: AndreGarrigo.com # do not add http://
+    website: AndreGarrigo.com #do not add http://
     linkedin: AndreGarrigo
-    # xing: 
+    xing: 
     github: andre3k1
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
     twitter: '@hello_its_andre'
-    # stack-overflow: 21385867/andre-garrigo # Number/Username
-    # codewars:
-    # goodreads: 6034960-andre-garrigo # Number-Username
+    stack-overflow: 21385867/andre-garrigo # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: 6034960-andre-garrigo # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
