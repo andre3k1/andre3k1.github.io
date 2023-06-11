@@ -99,17 +99,25 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Software Engineer
         time: 2012 - 2014
-        company: Amazon, London
+        company: Senzari, Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a Software Engineer, I played a direct role in the development of 
+          Senzari's MusicGraph API, a graph analytics and machine-learning 
+          knowledge engine for the music industry consisting of over <b>7 
+          billion</b> music-related data points.
+            - Built a REST API capable of resolving <b>thousands of requests 
+            per second</b>.
+            to provide client access to the MusicGraph backend.
+            - Deployed and maintained code on a network of <b>25-30</b> virtual 
+            servers using various programming languages.
+            - Enlisted Hadoop and other big data tools to analyze <b>millions</b> 
+            of data points and identify trends hidden within the data. 
+            - Analyzed radio station music playlist data and developed statistical 
+            models for generating personalized music playlists.
+            - Rewrote API documentation; proofread content to correct writing 
+            errors, eliminate redundant text and increase readability.
       - role: Senior News Editor
         time: 2010 - 2012
         company: TechMeme.com
