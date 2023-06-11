@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-url: 'http://webjeda.com'
 title: Andre Garrigo
+url: 'https://AndreGarrigo.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
