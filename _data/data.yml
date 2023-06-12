@@ -89,16 +89,28 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
+      - role: IT Director
         time: 2014 - 2015
-        company: Google, London
+        company: ACT Productions, Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Managed the IT infrastructure for ACT Productions, an event production 
+          company located in Miami Beach, Florida. Coordinated technical aspects 
+          of web and social media strategy for clients, designing custom content 
+          and securing other special requests to appropriately meet client needs.
+          Managed the IT infrastructure for ACT Productions, an event production 
+          company located in Miami Beach, Florida, and coordinated technical 
+          aspects of web and social media strategy for clients, designing custom 
+          content for the web and securing other special requests to 
+          appropriately meet client needs.
+            - Created a website from concept to completion within aggressive 
+            <b>6-week time frame</b> for Miami Beach Polo World Cup project.
+            - Coordinated <b>monthly meetings</b> with Mayor of Miami Beach's 
+            staff to ensure work on Miami Beach Centennial website complied with 
+            contract documents.
+            - Conferred with CEO and recommended cost-reduction programs that 
+            saved the company <b>$500/month</b> on Amazon Web Services (AWS).
+            - Issued <b>weekly reports</b> to support marketing team by deploying 
+            analytic tools to collect empirical data about social media followers.
       - role: Software Engineer
         time: 2012 - 2014
         company: Senzari, Inc.
