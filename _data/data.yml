@@ -188,23 +188,25 @@ experiences:
             saved the company <b>$500/month</b> on Amazon Web Services (AWS).
             - Issued <b>weekly reports</b> to support marketing team by deploying 
             analytic tools to collect empirical data about social media followers.
-      - role: Software Engineer
-        time: 2012 - 2014
+      - role: <a href="https://web.archive.org/web/20131026004459/http://corp.senzari.com/" target="_blank">Software Engineer</a>
+        time: 2013 - 2015
         company: Senzari, Inc.
         details: |
-          As a Software Engineer, I played a direct role in the development of 
-          Senzari's MusicGraph API, a graph analytics and machine-learning 
-          knowledge engine for the music industry consisting of over <b>7 
-          billion</b> music-related data points.
-            - Built a REST API capable of resolving <b>thousands of requests 
-            per second</b>.
-            to provide client access to the MusicGraph backend.
-            - Deployed and maintained code on a network of <b>25-30</b> virtual 
-            servers using various programming languages.
-            - Enlisted Hadoop and other big data tools to analyze <b>millions</b> 
-            of data points and identify trends hidden within the data. 
-            - Analyzed radio station music playlist data and developed statistical 
-            models for generating personalized music playlists.
+          As a <a href="https://web.archive.org/web/20131026004459/http://corp.senzari.com/" 
+          target="_blank">Software Engineer</a>, I played a direct role in the 
+          development of <a href="https://web.archive.org/web/20150222145849/https://developer.musicgraph.com/" 
+          target="_blank">Senzari's MusicGraph API</a>, a graph analytics and 
+          machine-learning knowledge engine for the music industry consisting 
+          of over <b>7 billion</b> music-related data points.
+            - Built a REST API capable of resolving <b>thousands of requests per 
+            second</b> to provide client access to a graph database backend. (<a href="https://web.archive.org/web/20150222145849/https://developer.musicgraph.com/" 
+            target="_blank">Click here to view the <b>API Docs</b>.</a>)
+            - Deployed and maintained code on a network of <b>25-30 virtual 
+            servers</b>.
+            - Enlisted Hadoop and other big data tools to analyze <b>millions 
+            of data points</b> and identify trends hidden within the data. 
+            - Analyzed radio station music playlist data and developed 
+            statistical models for generating personalized music playlists.
             - Rewrote API documentation; proofread content to correct writing 
             errors, eliminate redundant text and increase readability.
       - role: <a href="https://web.archive.org/web/20120331162741/https://techmeme.com/about" target="_blank">Editorial Team</a>
