@@ -54,102 +54,197 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a technology executive with extensive experience in product management, team management, product development, and contract
-      negotiations. I like engaging with customers, learning their pain points and challenges, and building solutions that will help 
-      their daily work. I love to lead cross-functional teams to conquer new heights! I aim to use my experience and skills to create 
-      innovative solutions that help organizations achieve their business goals. I am open to new opportunities. 
+      I am a Director of Product Management with 7+ years of experience in 
+      leading the development and launch of successful products. Proven track 
+      record of success in developing and executing product strategies, 
+      roadmaps, and go-to-market plans. Expertise in working with remote, 
+      cross-functional, and globally-distributed teams as part of the agile 
+      development process to bring products to market on time and within budget.
+      I enjoy engaging directly with customers, learning their pain points and 
+      challenges, and building solutions that will help their daily work. I 
+      have proven experience in leading the development and launch of multiple 
+      successful products by managing global cross-functional teams to conquer 
+      new heights! I aim to use my experience and skills to create innovative 
+      solutions that help organizations achieve their business goals. 
+
+      __I am open to new opportunities__. Interested parties may contact me on 
+      [LinkedIn](linkedin.com/in/andregarrigo) or by 
+      [email using a simple Google Form](https://forms.gle/7qunLkWoPSmvzjmV9).
       
-      __[Contact Me »](https://forms.gle/7qunLkWoPSmvzjmV9)__
+      📧 __[Contact Me »](https://forms.gle/7qunLkWoPSmvzjmV9)__
 
 education:
     title: Education
     info:
-      - degree: BA in Economics
-        university: Northwestern University
-        time: 2007 - 2011
       - degree: CORe
         university: Harvard Business School
         time: 2014 - 2015
+      - degree: BA in Economics and Legal Studies
+        university: Northwestern University
+        time: 2007 - 2011
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Product Manager
+        time: 2020 - 2022
+        company: Appgate, Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-      - role: Product Manager
+          Appgate is a security company that provides software-defined 
+          perimeter (SDP) solutions for zero trust network access (ZTNA). In my 
+          role at Appgate, I oversaw all aspects of product management for the 
+          Appgate SDP product line &#x2013; an industry-leading Zero Trust 
+          Network Access (ZTNA) security solution.
+
+            - Played key role in product portfolio expansion and new 
+              cloud-hosted product development. Evaluated the opportunity space 
+              and formulated business case for migrating existing self-hosted 
+              customers to a SaaS (Software-as-a-Service) subscription-based 
+              license model. 
+            - Wrote the PRD (Product Requirements Document), which defined the 
+              product's purpose, features, functionality, and behavior. 
+            - Motivated a team of engineers and designers to implement the 
+              product roadmap, coordinated with the DevOps and Support teams to 
+              launch a pilot program, and created training materials for the 
+              Sales team on the new cloud-hosted product.            
+            - Product Owner for AWS Marketplace integrations.
+
+          <b>QUANTITATIVE ACHIEVEMENTS:</b>
+            - Recruited 15‑20 strategic customers to participate in Quarterly 
+              Customer Advisory Board Meetings, which played an instrumental 
+              role in feature development prioritization leading to tangible 
+              business value.
+            - Recruited 15‑20 strategic customers to participate in the Appgate 
+              SDP Customer Advisory Board. Quarterly board meeting discussions 
+              with customers played an instrumental role in feature development 
+              prioritization leading to tangible business value.
+            - Drafted an SOW (Statement of Work) for 13 product licenses and 
+              negotiated multimillion-dollar license agreements working with 
+              channel partners in collaboration with Sales, Finance, and Legal 
+              teams.
+            - Upsold the largest channel partner (8% of the company’s revenue) 
+              to license new SaaS products for resale during contract renewal. 
+            - Upsold the largest channel partner (8% of the company’s revenue) 
+              to license new SaaS products for resale during contract renewal. 
+              Drafted an SOW (Statement of Work) for 13 product licenses and 
+              negotiated a multimillion-dollar license agreement in 
+              collaboration with Sales, Finance, and Legal teams.
+            - Created and delivered technical presentations in Spanish to an 
+              audience of 50+ native Spanish speakers. Initiated, organized, and 
+              produced a Spanish-language version of the company’s annual global 
+              Sales kickoff event. 
+            - Initiated, organized, and produced a Spanish-language version of 
+              the company’s annual global Sales kickoff event. Created and 
+              delivered technical presentations in Spanish to an audience of 50+ 
+              native Spanish speakers over the course of a full day.
+            - How many ppl did you train? Led company-wide rollout of a new 
+              Product Roadmapping tool capable of automatic, real-time product 
+              roadmap updating. Designed and developed training materials on 
+              how to access the product roadmap and submit feature requests.  
+              Supported and empowered the Sales, Account Management, Marketing, 
+              and Solutions teams to ensure the broadest reach and the best 
+              possible customer experience.
+
+          <b>QUALITATIVE ACHIEVEMENTS:</b>
+            - Wrote the PRD (Product Requirements Document), which defined the 
+              product’s purpose, features, functionality, and behavior. 
+            - Evaluated the opportunity space and formulated a business case 
+              for migrating existing self-hosted customers to a SaaS 
+              (Software-as-a-Service) subscription-based license model. 
+            - Led conversations with the major cloud providers – AWS, Microsoft 
+              Azure, Google Cloud, Oracle Cloud – and other SaaS companies to 
+              ensure that our products worked well for their applications.
+            - Led conversations with the major cloud providers (AWS, Microsoft 
+              Azure, Google Cloud, Oracle Cloud) and other SaaS companies to 
+              ensure that our products worked well for their applications.
+            - Worked closely with other product managers to define the vision, 
+              strategy, and product roadmap – including what platforms to 
+              support and what solutions to provide. 
+            - Provided customer/market feedback to other product managers to 
+              adjust roadmaps.
+            - Launched new enterprise security products for securing remote 
+              access to distributed cloud applications and containerized 
+              workloads. 
+            - Created and delivered compelling technical product presentations 
+              to prospective customers, partners, and analysts. 
+          
+          <b>Team Work:</b>
+            - Collaborated with a range of internal cross-functional teams 
+              including DevOps, Sales, Marketing, and Customer Success teams to 
+              develop <b>Go-To-Market strategy</b> (product positioning, 
+              pricing, launches, and field-facing content) and optimize revenue.
+            - Supported and empowered the Sales, Account Management, Marketing 
+              and Solutions teams to ensure the broadest reach and the best 
+              possible customer experience.
+            - Motivated a team of engineers and designers to implement the 
+              product roadmap, coordinated with the DevOps and Support teams to 
+              launch a pilot program, and created training materials for the 
+              Sales team on the new cloud-hosted product.
+            - Collaborated with Product and Engineering teams to develop and 
+              evangelize product priorities and roadmaps that create value for 
+              customers and the business. 
+
+          In __Q1 2020__, when valuations for security companies were sky-high, 
+          Cyxtera  spun off Cyxtera Cybersecurity, its security business 
+          including more than 500 employees and 1000+ customers across 40 
+          countries, into a new cybersecurity-focused company called Appgate.
+      - role: Senior Product Manager
         time: 2017 - 2019
         company: "Cyxtera Technologies, Inc."
         details: |
-          Developed a pricing model for Cyxtera's data center services and
-          colocation product. Led global cross-functional teams of <b>5‑8 
-          members</b>. Participated in hiring and onboarding product managers 
-          needed to grow talented and diverse teams. Negotiated vendor bids and 
-          managed project budgets in the range of <b>$1M+</b>.
-            - Grew revenue by <b>$3.3M in 6 months</b> by bringing the 
-            commercial side of an existing free offering to market: billing 
-            customers for mailroom usage and package storage at the company's 
-            60 data centers.
-            - Delivered <b>2% ($12M) improvement</b> to the gross margin by 
-            developing and implementing a global consolidation strategy that 
-            closed data centers in underperforming markets. Successfully 
-            relocated <b>80+ customers</b>.
-            - Directed <b>5</b> data center decommissioning projects that 
-            achieved a <b>$10M reduction</b> in annual costs. Managed the entire 
-            project lifecycle and delivered all projects on schedule and under
-            budget. 
-            - Led comprehensive analysis of contracts, service delivery, and 
-            billing that identified <b>$300K</b> of previously unbilled revenue 
-            and established revenue assurance process improvements to back bill 
-            customers.
-            - Created a metric-based reporting package for leadership to standardize 
-            capacity metrics across <b>60 data centers</b>. Established a 
-            monthly reporting process, delivered training to <b>50+ staff 
-            members</b>, and created a system of controls to eliminate errors. 
-            - Championed the development and implementation of a corporate-wide 
-            internship program. Managed <b>$150K annual budget</b>. Sourced and
-            hired <b>30+ candidates in the first 2 years</b> of the program. 
-            Came in <b>$85K</b> under budget.
-          <p><u>Led cross-functional teams, working with:</u></p>
+          <b>Cyxtera</b> Technologies is a global leader in colocation data 
+          center market share, with a footprint of more than <b>57 data 
+          centers</b>, consuming <b>195 megawatts</b> of power across <b>2.6 
+          million square feet</b> (241,548 square meters) of raised floor space.
+
+          Established in 2017 by a consortium of private equity firms led by 
+          <b>Medina Capital Advisors</b>, Cyxtera formed through the acquisition 
+          of CenturyLink's data center colocation business along with four 
+          companies that comprised Medina Capital's security portfolio in a USD 
+          <b>$2.8 billion transaction</b>. (<a href="https://archive.is/m7iFk" 
+          target="_blank">Click here to read, <em>"The Cyxtera Vision: A Secure 
+          Global Data Center Platform"</em></a>).
+            - Grew revenue by <b>$3.3 million in 6 months</b> by bringing the 
+              commercial side of an existing free offering to market: billing 
+              customers for mailroom usage and package storage at the company's 
+              57 data centers.
+            - Led comprehensive analysis of customer contracts, service 
+              delivery, and billing that identified <b>$300K</b> of previously 
+              unbilled revenue and established revenue assurance process 
+              improvements to back-bill customers who had been billed 
+              incorrectly.
+            - Directed five data center decommissioning projects that achieved a 
+              <b>$10 million reduction</b> in annual costs. Managed the entire 
+              project lifecycle and delivered all projects on schedule and under 
+              budget. Negotiated vendor bids and managed project budgets in the 
+              range of <b>$1M+</b>. Successfully migrated <b>80+ customer 
+              networks</b> from the decommissioned locations to other Cyxtera 
+              data centers.
+            - Standardized reporting of data center operations metrics. 
+              Established a monthly reporting process, delivered training to 
+              <b>50+ Data Center Facility Operations staff members</b>, and 
+              created a system of controls to eliminate errors.
+            - Participated in hiring and onboarding product managers needed to 
+              grow talented and diverse teams. Championed the development and 
+              implementation of a corporate-wide internship program. Sourced 
+              and hired <b>30+ candidates</b> in the first 2 years of the 
+              program. Came in <b>$85K under budget</b>. 
+            - Expert at gathering and analyzing relevant data for developing 
+              effective pricing strategies. Increased sales numbers by coming up 
+              with optimal strategies. Designed and implemented short-term 
+              pricing moves and long-term pricing strategy recommendations to 
+              maximize Gross Margin and Net Sales. 
+
+          <b>Led cross-functional teams, working with:</b>
             - Sales team on opportunities that require product support.
             - Operations and Engineering teams to ensure all data center 
-            buildout/restoration projects are on schedule.
+              buildout/restoration projects are on schedule.
             - Legal team on contract negotiations with customers, partners, 
-            vendors, and landlords.
+              vendors, and landlords.
             - Finance team for budget review and approval.
             - Marketing team to create various customer-facing materials.
             - Product Marketing team for go-to-market planning.
-          <p><b>DCF: The Cyxtera Vision: A Secure Global Data Center Platform (May 12, 2017)</b> </p>
-            - <a href="https://archive.is/m7iFk" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20230618200155/https://www.datacenterfrontier.com/colo/article/11430778/the-cyxtera-vision-a-secure-global-data-center-platform" target="_blank">Archive.org</a>
-          <p><b>DCM Company profile: Cyxtera Technologies (Jan. 13, 2022)</b> </p>
-            - <a href="https://archive.is/tnKGk" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20230129120405/https://datacentremagazine.com/data-centres/company-profile-cyxtera-technologies" target="_blank">Archive.org</a>
-          <p><b>DCD: CTL completes sale of its data center business, now called Cyxtera (May 2, 2017)</b> </p>
-            - <a href="https://archive.is/7G9HQ" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20230618200547/https://www.datacenterdynamics.com/en/news/centurylink-completes-sale-of-its-data-center-business-now-called-cyxtera/" target="_blank">Archive.org</a>
-          <p><b>DCD: CTL to sell its data centers for $2.3bn (Nov. 4, 2016)</b> </p>
-            - <a href="https://archive.is/4FS0i" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20201128232802/https://www.datacenterdynamics.com/en/news/centurylink-to-sell-its-data-centers-for-23bn/" target="_blank">Archive.org</a>
-          <p><b>LightReading: CTL Finalizes Data Center Sale (May 2, 2017)</b> </p>
-            - <a href="https://archive.is/UDim0" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20230618205608/https://www.lightreading.com/data-center/data-center-infrastructure/centurylink-finalizes-data-center-sale/d/d-id/732453?" target="_blank">Archive.org</a>
-          <p><b>DCD: The telco data center sell-off (Jan. 2, 2020)</b> </p>
-            - <a href="https://archive.is/Oggqs" target="_blank">Archive.is</a> 
-            - <a href="https://web.archive.org/web/20230618200821/https://www.datacenterdynamics.com/en/analysis/telco-data-center-sell-/" target="_blank">Archive.org</a>
+          
       - role: Private Equity Associate
         time: 2015 - 2017
         company: Medina Capital Advisors, LLC
@@ -266,9 +361,8 @@ experiences:
 # projects:
 #     title: Projects
 #     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#       You can list your awards in this section. Lorem ipsum dolor sit amet, 
+#       consectetur adipiscing elit.
 #     assignments:
 #       - title: Velocity
 #         link: "#hook"
@@ -290,68 +384,274 @@ experiences:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+oss:
+    title: Awards
+    intro: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    contributions:
+      - year: "2020-09-24"
+        link: "https://www.forrester.com/report/the-forrester-wave-zero-trust-extended-ecosystem-platform-providers-q3-2020/RES157494?ref_search=0_1687292835207"
+        tagline: "The Forrester Wave™: Zero Trust eXtended Ecosystem Platform Providers, Q3 2020 (Sep. 24, 2020)"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - year: "2020-05-27"
+        link: "https://www.forrester.com/report/the-forrester-wave-risk-based-authentication-q2-2020/RES157259?ref_search=0_1687292835207"
+        tagline: "The Forrester Wave™: Risk-Based Authentication, Q2 2020 (May 27, 2020)"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - year: "2019-10-29"
+        link: "https://www.forrester.com/report/the-forrester-wave-zero-trust-extended-ecosystem-platform-providers-q4-2019/RES146875?ref_search=0_1687292835207"
+        tagline: "The Forrester Wave™: Zero Trust eXtended Ecosystem Platform Providers, Q4 2019"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+      - year: "2019-10-29"
+        link: "https://www.appgate.com/news-press/cyxtera-named-a-strong-performer-in-zero-trust-extended-ecosystem-platform-providers-report-by-independent-research-firm"
+        tagline: 'Cyxtera named a "Strong Performer" in “The Forrester Wave™: Zero Trust eXtended (ZTX) Ecosystem Platform Providers, Q4 2019”]'
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - year: "2018-11-27"
+        link: "https://www.forrester.com/report/the-state-of-network-security-2018-to-2019/RES142234?ref_search=0_1687292835207"
+        tagline: "The State Of Network Security: 2018 To 2019 | Forrester"
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - year: "2018-11-08"
+        link: "https://www.forrester.com/report/the-forrester-wave-zero-trust-extended-ztx-ecosystem-providers-q4-2018/RES141666?ref_search=0_1687292835207"
+        tagline: "The Forrester Wave™: Zero Trust eXtended (ZTX) Ecosystem Providers, Q4 2018"
 
-# skills:
-#     title: Skills &amp; Proficiency
+      - year: "2018-07-12"
+        link: "https://www.forrester.com/report/the-forrester-tech-tide-zero-trust-threat-prevention-q3-2018/RES137207?ref_search=0_1687292835207"
+        tagline: "The Forrester Tech Tide™: Zero Trust Threat Prevention, Q3 2018"
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
+      - year: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#       - name: Javascript & jQuery
-#         level: 98%
+      - year: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-#       - name: Angular
-#         level: 98%
+      - year: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#       - name: HTML5 & CSS
-#         level: 95%
 
-#       - name: Ruby on Rails
-#         level: 85%
 
-#       - name: Sketch & Photoshop
-#         level: 60%
+publications:
+    title: In The News
+    intro: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    papers:
+      - date: "2022-03-28 | The Last Watchdog on Privacy & Security"
+        link: "https://www.lastwatchdog.com/meeting-the-security-challenges-of-cloud-native-with-zero-trust/"
+        title: "Embracing 'Zero Trust' can help cloud-native organizations operate securely"
+        displayurl: "lastwatchdog.com/meeting-the-security-challenges-of-cloud-native-with-zero-trust/"
+
+      - date: "2022-02-02 | Enterprise IT World"
+        link: "https://www.enterpriseitworld.com/appgate-announces-cloud-native-zero-trust-functionality-to-protect-kubernetes-workloads"
+        title: "Appgate Announces Cloud-Native Zero Trust Functionality to Protect Kubernetes Workloads"
+        displayurl: "enterpriseitworld.com/appgate-announces-cloud-native-zero-trust-functionality-to-protect-kubernetes-workloads"
+
+      - date: "2022-02-02 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-announces-cloud-native-zero-trust-functionality-to-protect-kubernetes-workloads"
+        title: "Appgate Announces Cloud-native Zero Trust Functionality to Protect Kubernetes Workloads"
+        displayurl: "appgate.com/news-press/appgate-announces-cloud-native-zero-trust-functionality-to-protect-kubernetes-workloads"
+
+      - date: "2022-01-17 | Security Boulevard"
+        link: "https://securityboulevard.com/2022/01/cybersecuritys-2022-ipo-pipeline-part-1/"
+        title: "Security Boulevard: Cybersecurity's 2022 IPO Pipeline (Part 1)"
+        displayurl: "securityboulevard.com/2022/01/cybersecuritys-2022-ipo-pipeline-part-1/"
+
+      - date: "2022-01-13 | Data Center Magazine"
+        link: "https://archive.is/tnKGk"
+        title: "Company profile: Cyxtera Technologies"
+        displayurl: "datacentremagazine.com/data-centres/company-profile-cyxtera-technologies"
+
+      - date: "2021-11-10 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-announces-third-quarter-fiscal-2021-financial-results"
+        title: "Appgate announces third quarter fiscal 2021 financial results"
+        displayurl: "appgate.com/news-press/appgate-announces-third-quarter-fiscal-2021-financial-results"
+
+      - date: "2021-10-28 | Help Net Security"
+        link: "https://www.helpnetsecurity.com/2021/10/29/appgate-sdp/"
+        title: "Appgate launches SDP solution to help enterprises expand and accelerate zero trust initiatives"
+        displayurl: "helpnetsecurity.com/2021/10/29/appgate-sdp/"
+
+      - date: "2021-10-28 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-unveils-new-version-of-its-industry-leading-zero-trust-network-access-solution"
+        title: "Appgate Unveils New Version of its industry-leading Zero Trust Network Access Solution"
+        displayurl: "appgate.com/news-press/appgate-unveils-new-version-of-its-industry-leading-zero-trust-network-access-solution"
+
+      - date: "2021-10-13 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-a-leading-cybersecurity-company-founded-on-zero-trust-principles-closes-merger-with-newtown-lane-marketing"
+        title: "Appgate closes merger with Newtown Lane Marketing"
+        displayurl: "appgate.com/news-press/appgate-a-leading-cybersecurity-company-founded-on-zero-trust-principles-closes-merger-with-newtown-lane-marketing"
+
+      - date: "2021-09-21 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-announces-zero-trust-network-access-ztna-as-a-service-for-u-s-government"
+        title: "Appgate announces Zero Trust Network Access (ZTNA) As A Service for U.S. Government"
+        displayurl: "appgate.com/news-press/appgate-announces-zero-trust-network-access-ztna-as-a-service-for-u-s-government"
+
+      - date: "2021-08-23 | Forrester"
+        link: "https://www.forrester.com/report/the-zero-trust-extended-ztx-ecosystem/RES137210?ref_search=0_1687292835207"
+        title: "The Zero Trust eXtended (ZTX) Ecosystem"
+        displayurl: "forrester.com/report/the-zero-trust-extended-ztx-ecosystem/RES137210"
+
+      - date: "2021-04-27 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-sdp-introduces-clientless-zero-trust-network-access"
+        title: "Appgate SDP introduces Clientless Zero Trust Network Access"
+        displayurl: "appgate.com/news-press/appgate-sdp-introduces-clientless-zero-trust-network-access"
+
+      - date: "2021-02-22 | Data Center Knowledge"
+        link: "https://www.datacenterknowledge.com/deals/data-center-provider-cyxtera-go-public-34b-starboard-spac-deal"
+        title: "Data Center Provider Cyxtera to Go Public Via $3.4B Starboard SPAC Deal"
+        displayurl: "datacenterknowledge.com/deals/data-center-provider-cyxtera-go-public-34b-starboard-spac-deal"
+
+      - date: "2021-02-22 | Data Center Knowledge"
+        link: "https://www.datacenterknowledge.com/deals/data-center-provider-cyxtera-close-34b-starboard-spac-merger-wsj"
+        title: "Data Center Provider Cyxtera Close to $3.4B Starboard SPAC Merger: WSJ"
+        displayurl: "datacenterknowledge.com/deals/data-center-provider-cyxtera-close-34b-starboard-spac-merger-wsj"
+
+      - date: "2021-02-21 | The Wall Street Journal"
+        link: "https://archive.is/iuQf7"
+        title: "Starboard SPAC Nears $3.4 Billion Deal for Data-Center Company Cyxtera"
+        displayurl: "wsj.com/articles/starboard-spac-nears-3-4-billion-deal-for-data-center-company-cyxtera-11613955601"
+
+      - date: "2021-02-22 | DataCenterKnowledge.com"
+        link: "https://archive.is/Fzx6e"
+        title: "Data Center Provider Cyxtera to Go Public Via $3.4B Starboard SPAC Deal"
+        displayurl: "datacenterknowledge.com/deals/data-center-provider-cyxtera-close-34b-starboard-spac-merger-wsj"
+
+      - date: "2021-02-21 | The Wall Street Journal"
+        link: "https://archive.is/iuQf7"
+        title: "Starboard SPAC Nears $3.4 Billion Deal for Data-Center Company Cyxtera"
+        displayurl: "wsj.com/articles/starboard-spac-nears-3-4-billion-deal-for-data-center-company-cyxtera-11613955601"
+
+      - date: "2021-02-09 | Appgate"
+        link: "https://www.appgate.com/news-press/appgate-a-leading-cybersecurity-company-to-merge-with-public-company-newtown-lane-marketing"
+        title: "Appgate to merge with public company Newtown Lane Marketing"
+        displayurl: "appgate.com/news-press/appgate-a-leading-cybersecurity-company-to-merge-with-public-company-newtown-lane-marketing"
+
+      - date: "2020-02-28"
+        link: "https://archive.is/1GSMw"
+        title: "(ESPAÑOL) AppGate se separa de Cyxtera para crecer (Feb 28, 2020)"
+        displayurl: "itsitio.com/co/appgate-se-separa-cyxtera-crecer/"
+
+      - date: "2020-01-02 | DataCenterDynamics.com"
+        link: "https://archive.is/Oggqs"
+        title: "The telco data center sell-off"
+        displayurl: "datacenterdynamics.com/en/analysis/telco-data-center-sell-/"
+
+      - date: "2019-11-21 | DataCenterKnowledge.com"
+        link: "https://archive.is/M0kdw"
+        title: "Cyxtera Chief Says Weak Colocation Sales Did not Cause Company Split"
+        displayurl: "datacenterknowledge.com/business/cyxtera-chief-says-weak-colocation-sales-didnt-cause-company-split"
+
+      - date: "2019-11-11 | Refresh Miami"
+        link: "https://refreshmiami.com/4-things-to-know-in-miamitech-magic-leap-is-raising-plus-news-from-cyxtera-um-sharks-and-dogs/"
+        title: "4 things to know in #MiamiTech: Magic Leap is raising $$$, plus news from Cyxtera, UM, Sharks and dogs"
+        displayurl: "refreshmiami.com/4-things-to-know-in-miamitech-magic-leap-is-raising-plus-news-from-cyxtera-um-sharks-and-dogs/"
+
+      - date: "2019-11-10 | WashingtonExec.com"
+        link: "https://archive.is/r0Cb1"
+        title: "Cyxtera Technologies to Spin Out Cybersecurity Business with Former Google Exec at the Helm"
+        displayurl: "washingtonexec.com/2019/11/cyxtera-appgate-cyber-business/#.Xd1prC3MzBI"
+
+      - date: "2019-11-07 | South Florida Business Journal"
+        link: "https://archive.is/pOzP6"
+        title: "Cyxtera to spin off cybersecurity unit into new business"
+        displayurl: "bizjournals.com/southflorida/news/2019/11/07/cyxtera-to-spin-off-cybersecurity-unit-into-new.html"
+
+      - date: "2019-11-06 | South Florida Business Journal"
+        link: "https://www.bizjournals.com/southflorida/news/2019/11/07/cyxtera-to-spin-off-cybersecurity-unit-into-new.html"
+        title: "Cyxtera to spin off cybersecurity unit into new business, Appgate"
+        displayurl: "bizjournals.com/southflorida/news/2019/11/07/cyxtera-to-spin-off-cybersecurity-unit-into-new.html"
+
+      - date: "2019-11-06 | CRN.com"
+        link: "https://archive.is/V8JDK"
+        title: "Cyxtera To Spin Out Cybersecurity Practice Into Standalone Company"
+        displayurl: "crn.com/news/security/cyxtera-to-spin-out-cybersecurity-practice-into-standalone-company"
+
+      - date: "2019-11-06 | CRN"
+        link: "https://www.crn.com/news/security/cyxtera-to-spin-out-cybersecurity-practice-into-standalone-company"
+        title: "Cyxtera To Spin Out Cybersecurity Practice Into Standalone Company"
+        displayurl: "crn.com/news/security/cyxtera-to-spin-out-cybersecurity-practice-into-standalone-company"
+
+      - date: "2019-11-06 | GovCon Wire"
+        link: "https://www.govconwire.com/2019/11/cyxtera-to-spin-out-cybersecurity-business-to-form-appgate-manuel-medina-quoted/"
+        title: "Cyxtera to Spin Out Cybersecurity Business to Form Appgate"
+        displayurl: "govconwire.com/2019/11/cyxtera-to-spin-out-cybersecurity-business-to-form-appgate-manuel-medina-quoted/"
+
+      - date: "2019-11-06 | BusinessWire.com"
+        link: "https://archive.is/fM3Ac"
+        title: "Cyxtera Technologies Announces Spin Out of Cybersecurity Business"
+        displayurl: "businesswire.com/news/home/20191106005705/en/Cyxtera-Technologies-Announces-Spin-Out-of-Cybersecurity-Business"
+
+      - date: "2019-11-06 | Appgate"
+        link: "https://www.appgate.com/news-press/cyxtera-technologies-announces-spin-out-of-cybersecurity-business"
+        title: "Cyxtera Announces Spin Out of Appgate"
+        displayurl: "appgate.com/news-press/cyxtera-technologies-announces-spin-out-of-cybersecurity-business"
+
+      - date: "2019-11-06 | Cyxtera.com"
+        link: "https://archive.is/pHRvz"
+        title: "Cyxtera Technologies Announces Spin Out of Cybersecurity Business"
+        displayurl: "cyxtera.com/about-us/press-releases/cyxtera-technologies-announces-spin-out-of-cybersecurity-business"
+
+      - date: "2018-12-13 | Appgate.com"
+        link: "https://archive.is/wAlja"
+        title: "Cyxtera integrates Zero-Trust security into global data center footprint"
+        displayurl: "appgate.com/news-press/cyxtera-integrates-zero-trust-security-into-global-data-center-footprint"
+
+      - date: "2018-12-13"
+        link: "https://www.appgate.com/news-press/cyxtera-integrates-zero-trust-security-into-global-data-center-footprint"
+        title: "Cyxtera integrates Zero-Trust security into global data center footprint"
+        displayurl: "appgate.com/news-press/cyxtera-integrates-zero-trust-security-into-global-data-center-footprint"
+
+      - date: "2017-05-12"
+        link: "https://archive.is/m7iFk"
+        title: "The Cyxtera Vision: A Secure Global Data Center Platform | DataCenterFrontier.com"
+        displayurl: "datacenterfrontier.com/colo/article/11430778/the-cyxtera-vision-a-secure-global-data-center-platform"
+
+      - date: "2017-05-08 | DataCenterKnowledge.com"
+        link: "https://archive.is/DKPJp"
+        title: "Cyxtera Puts a Fresh Spin on Centurylink’s Former Data Center Empire"
+        displayurl: "datacenterknowledge.com/archives/2017/05/08/cyxtera-puts-fresh-spin-centurylinks-former-data-center-empire"
+
+      - date: "2017-05-02 | DataCenterDynamics.com"
+        link: "https://archive.is/7G9HQ"
+        title: "CTL completes sale of its data center business, now called Cyxtera | DataCenterDynamics.com"
+        displayurl: "datacenterdynamics.com/en/news/centurylink-completes-sale-of-its-data-center-business-now-called-cyxtera/"
+
+      - date: "2017-05-02 | LightReading.com"
+        link: "https://archive.is/UDim0"
+        title: "CTL Finalizes Data Center Sale"
+        displayurl: "lightreading.com/data-center/data-center-infrastructure/centurylink-finalizes-data-center-sale/d/d-id/732453?"
+
+      - date: "2016-11-04 | DataCenterKnowledge.com"
+        link: "https://archive.is/bWxlw"
+        title: "Centurylink Sells Its Colo Business to Fund Level 3 Deal"
+        displayurl: "datacenterknowledge.com/archives/2016/11/04/centurylink-sells-colo-business-fund-level-3-deal"
+
+      - date: "2016-11-04 | DataCenterDynamics.com"
+        link: "https://archive.is/4FS0i"
+        title: "CTL to sell its data centers for $2.3bn"
+        displayurl: "datacenterdynamics.com/en/news/centurylink-to-sell-its-data-centers-for-23bn/"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Online Marketing (SEO, Google Analytics, Google seach console)
+        level: 85%
+
+      - name: Photoshop
+        level: 60%
 
 footer: >
     Built with <i class="fas fa-heart"></i> in 2023
