@@ -161,3 +161,7 @@ Backup of *.doc*
 ### Libre Office ###
 # https://github.com/github/gitignore/blob/main/Global/LibreOffice.gitignore
 .~lock.*#
+docs/gh-markdown.md
+
+## Development
+docs/
