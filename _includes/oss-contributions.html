@@ -4,7 +4,7 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-trophy fa-stack-1x fa-inverse"></i>
     </span>
     {{ oss.title }}
   </h2>
@@ -21,14 +21,18 @@
 
     <span class="project-title">
       {% if contribution.link %}
-      <a href="{{ contribution.link }}" target="_blank">{{ contribution.title }}</a>
+        <a href="{{ contribution.link }}" target="_blank">{{ contribution.year }}
       {% else %}
-      {{ contribution.title }}
+        {{ contribution.year }}
       {% endif %}
     </span>
 
     {% if contribution.tagline %}
-    - <span class="project-tagline">{{ contribution.tagline }}</span>
+      {% if contribution.link %}
+        <span class="project-tagline">- {{ contribution.tagline }}</span></a>
+      {% else %}
+        <span class="project-tagline">- {{ contribution.tagline }}</span>
+      {% endif %}
     {% endif %}
 
   </div>
